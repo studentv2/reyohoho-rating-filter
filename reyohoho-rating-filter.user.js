@@ -9,8 +9,8 @@
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
-// @homepageURL  https://github.com/reyohoho/reyohoho
-// @supportURL   https://github.com/reyohoho/reyohoho/issues
+// @homepageURL  https://github.com/studentv2/reyohoho-rating-filter
+// @supportURL   https://github.com/studentv2/reyohoho-rating-filter/issues
 // ==/UserScript==
 
 (function () {
