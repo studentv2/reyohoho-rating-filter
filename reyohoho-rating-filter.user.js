@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         ReYohoho — фильтр по рейтингу
 // @namespace    https://reyohoho.github.io/
-// @version      1.7
+// @version      1.8
 // @description  Вставляет адаптивную панель фильтра рейтинга в интерфейс ReYohoho (интеграция в .controls/.filter-card, включая time-card). SPA-устойчивость, автоматическая адаптация к теме сайта. Работает на страницах /lists, /lists/<id> и /top. Не использует внешние библиотеки или трекеры.
 // @author       ReYohoho
-// @match        https://reyohoho.github.io/reyohoho/lists*
-// @match        https://reyohoho.github.io/reyohoho/top*
+// @match        https://reyohoho.github.io/reyohoho
+// @match        https://reyohoho.github.io/reyohoho/
+// @match        https://reyohoho.github.io/reyohoho/*
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
